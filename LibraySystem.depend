@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1500345603 source:c:\users\administrator\desktop\libraysystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500345603 source:c:\users\administrator\desktop\梨梨的资料\c实践小学期\大作业：图书馆系统（黎佳欣22920162204004）\libraysystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500345604 source:d:\大二下\大作业：图书馆系统（黎佳欣22920162204004）\libraysystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
